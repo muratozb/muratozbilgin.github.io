@@ -1,0 +1,36 @@
+## Working papers
+
+**[New Zealand Demographics and Their Role in an Overlapping Generations Model](https://www.treasury.govt.nz/publications/an/an-24-08)**  
+with Andrew Binning, Susie McKenzie and Christie Smith
+
+*New Zealand Treasury Analytical Note*, AN 24/00, September 2024. 
+
+<div class="abstract">
+Like many developed countries, New Zealand’s population is ageing. Its population is living longer and fertility rates have fallen, shifting the age composition towards older generations. This change in demographics is expected to continue into the future. In this paper, we explore a demographic model based on three core components: fertility rates, survival probabilities, and net migration. We illustrate how varying the assumptions affects the size and age-composition of the long-run population. The baseline projections indicate that New Zealand’s population could reach approximately 7.5 million beyond 2100, though there is considerable uncertainty about all of the demographic assumptions that underpin such a long-run projection. Given the fertility rates that currently prevail in New Zealand, net migration is likely to play a large role in maintaining New Zealand’s population. If current sub-replacement fertility rates continue, New Zealand’s population would eventually decline to zero if there was no net migration inflow.
+</div>
+
+**[Solving Stochastic OLG Models Using Chebyshev Parameterized Expectations](https://www.treasury.govt.nz/publications/wp/wp-24-03)**  
+with Robert Kirkby 
+
+*New Zealand Treasury Working Paper*, 24/03, June 2024. 
+
+<div class="abstract">
+This paper presents an efficient solution method for solving stochastic overlapping generations (S-OLG) models. We use the Chebyshev parameterized expectation algorithm (C-PEA) developed by Christiano and Fisher (2000) to solve the life cycle block of S-OLGs. The method is well suited for this family of models, capable of handling nonlinearities inherent in the life-cycle aspect of S-OLGSs, and occasionally binding constraints associated with borrowing constraints. We carefully examine practical considerations and describe how to efficiently implement this method. To illustrate the method’s effectiveness, we apply it to solve a standard S-OLG model with idiosyncratic risk and two permanent types. We calculate Euler equation errors throughout the life cycle and measure computational time to demonstrate that C-PEA can perform well under these computational challenges with reasonable accuracy and efficiency. Our results show that, together with its scalability to higher dimensional problems, C-PEA can be a valuable tool for policy analysts and researchers working with S-OLG models. 
+</div>
+
+**[Labour Market Cycles across Different Groups: What Does History Tell Us? Part I: Ethnicities, Part II: Age and Sex, Part III: Regions](https://www.rbnz.govt.nz/hub/publications/analytical-note/2022/an2022-03;%20https://www.rbnz.govt.nz/hub/publications/analytical-note/2022/an2022-04;%20https://www.rbnz.govt.nz/hub/publications/analytical-note/2022/an2022-05)**  
+with Shaun Markham and Finn Robinson
+
+*Reserve Bank of New Zealand Analytical Notes*, AN2022/03-04-05, March 2022.
+
+<div class="abstract">
+COVID-19 and the associated lockdown and travel restrictions resulted in a severe recession in New Zealand during the middle and latter stages of 2020, where employment dropped below its maximum sustainable level (MSE). However, while the recovery to date has been strong and has outpaced initial expectations, its effect on employment remains uneven across regions, sexes, and other groups.
+
+To put these developments into context, we analyse the past experiences of different ethnicities, age groups, sexes, and regions during historical recessions in New Zealand in a series of three Analytical Notes. This will provide us with a better understanding of how unemployment in these groups has changed in a more typical recession than the current one, and a good foundation for more in-depth comparisons and analysis in future work. In this first Note we analyse how previous labour market cycles have impacted Māori, Pasifika, and European people; the other two Notes will address employment by age group and sex, and regions.
+
+It is well-known that labour market outcomes for Māori and Pasifika are consistently worse than for other groups in New Zealand (figure 1). In this paper we are interested specifically in labour market cycles, and whether outcomes over these cycles are different for Māori, Pasifika, and Europeans.
+
+We find that labour market cycles are much more severe for Pasifika and Māori than for European, and labour market contractions generally last much longer than contractions in GDP. 
+
+
+</div>

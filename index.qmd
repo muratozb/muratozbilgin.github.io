@@ -1,0 +1,80 @@
+---
+title-block-style: none
+---
+
+<div class="hero">
+
+<div class="hero-text">
+
+<div class="name">Murat Özbilgin</div>
+
+<!-- <div class="subtitle">
+Senior Research / Technical Economist  
+Bank of England
+</div> -->
+
+I am a **Senior Research Economist** at the **Bank of England**. 
+
+<!-- I am a macroeconomist working on structural macroeconomic modelling, DSGE models, overlapping-generations models, labour markets, and policy-relevant quantitative analysis. -->
+
+Previously, I worked at the New Zealand Treasury, the Reserve Bank of New Zealand, and the Central Bank of Turkiye.  
+
+I hold a **PhD** from **University of California, Santa Barbara**.  
+
+
+## Research Interests
+
+Fiscal/monetary policy interactions  
+Macroeconomic policy implications of demographic change  
+Labour market and wage dynamics  
+Short-term and long-term forecasting
+
+## Links
+
+- [CV](CV_MuratOzbilgin.pdf)
+- [Google Scholar](https://scholar.google.com/citations?user=aFMpS3YAAAAJ&hl=en)
+- [LinkedIn](https://www.linkedin.com/in/muratozbilgin/)
+</div>
+
+<div class="hero-image">
+
+![](profile.jpg)
+
+</div>
+
+</div>
+
+<!-- ---
+title: "Murat Ozbilgin"
+title-block-style: none
+---
+
+<div class="hero">
+
+<div class="hero-text">
+
+<div class="name"></div>
+
+
+
+I am a Senior Research Economist at the Bank of England. 
+
+Previously, I worked at the New Zealand Treasury, the Reserve Bank of New Zealand, and the Central Bank of Turkiye.  
+
+I hold a PhD from University of California, Santa Barbara.  
+
+
+## Research Interests
+
+
+Fiscal/monetary policy interactions  
+Macroeconomic policy implications of demographic change  
+Labour market dynamics  
+Short-term and long-term forecasting
+
+## Links
+
+- CV
+- Google Scholar
+- LinkedIn
+- GitHub -->

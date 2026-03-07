@@ -1,0 +1,52 @@
+## Journal Publications
+
+**[Low Wage Growth and Job-to-Job Transitions: Evidence from Administrative Data in New Zealand](https://www.ijcb.org/journal/ijcb24q1a4.pdf)**  
+with Christopher Ball, Ozer Karagedikli, Nicolas Groshenny, and Finn Robinson.
+
+*International Journal of Central Banking*, Vol. 20, No.1, February 2024.  
+
+<div class="abstract">
+We use administrative data from New Zealand and exploit regional variations to evaluate the predictive power for wage dynamics of the job-finding and job-to-job transition rates. We find that the job-finding rate from unemployment plays a role in describing the wage dynamics of newly hired workers even after controlling for the job-to-job transition rate. The wages of new hires are much more responsive to both transition rates than the wages of job stayers. We then distinguish between the new hires transitioning from employment (job switchers) and the new hires coming from unemployment. The wages of job switchers are primarily related to the pace of job-to-job reallocation, and less significantly, to the job-finding rate. The wages of new hires from unemployment are exclusively linked to the job-finding rate and this association is stronger at the lower half of the wage distribution. Additionally, the wages of new hires from unemployment are more responsive to the job-finding rate than the wages of job stayers. The job-to-job transition rate has no impact on the wage dynamics of job stayers once the job-finding rate and the transition rate from inactivity to employment are controlled for.
+</div>
+
+**[Age, Industry, and Unemployment Risk during a Pandemic Lockdown](https://doi.org/10.1016/j.jedc.2021.104233)**  
+with James Graham.
+
+*Journal of Economic Dynamics and Control*, Vol.133, December 2021.  
+
+<div class="abstract">
+This paper models the macroeconomic and distributional consequences of lockdown shocks during the COVID-19 pandemic. The model features heterogeneous life-cycle households, labor market search and matching frictions, and multiple industries of employment. We calibrate the model to data from New Zealand, where the health effects of the pandemic were especially mild. In this context, we model lockdowns as supply shocks, ignoring the demand shocks associated with health concerns about the virus. We then study the impact of a large-scale wage subsidy scheme implemented during the lockdown. The policy prevents job losses equivalent to 6.5% of steady state employment. Moreover, we find significant heterogeneity in its impact. The subsidy saves 17.2% of jobs for workers under the age of 30, but just 2.6% of jobs for those over 50. Nevertheless, our welfare analysis of fiscal alternatives shows that the young prefer increases in unemployment transfers as this enables greater consumption smoothing across employment states. 
+</div>  
+
+**[Gains from Reducing the Implementation Delays in Public Investment](https://link.springer.com/article/10.1057/s41308-020-00112-6)**
+
+*IMF Economic Review*, Vol.68(4), Pages 815-847, December 2020.  
+
+<div class="abstract">
+This paper studies the welfare impact of reducing delays in the implementation of public investment projects, using Turkish data pertaining to a revealed policy action in the early 2000s. I find that the reduction in the completion duration of the public capital from 11 to 4 years corresponds to a welfare gain of 1.9% in terms of compensating variations in consumption and an output gain of 2.7%. When most public investment management reforms are akin to a permanent positive marginal efficiency shock, I show that the elimination of implementation delays is similar to a cut in public capital “tax.” Lastly, I find that the potential gains from a similar reform are considerable for some other emerging market economies. Hohoho, and had I changed this would it work? Or not or not not
+</div>
+
+**[Welfare Implications When Closing Small Open Economy Models](http://www.sciencedirect.com/science/article/pii/S0261560616300523)**
+
+*Journal of International Money and Finance*, Vol.70, Pages 471-493, February 2017.
+
+<div class="abstract">
+This paper establishes that the closing method matters when the small open economy model is used for welfare analysis. The differences stem from the impact of the closing method on debt dynamics. When the ad-hoc parameters are set so that the current account volatility is controlled for across models, the welfare properties of versions with portfolio adjustment costs (PAC) and debt elastic interest rates (DEIR) are significantly different from the version with an endogenous discount factor (EDF). Nevertheless, this outcome is an artifact of an unrealistically dispersed distribution of the net foreign assets under PAC and DEIR, and can disappear under alternative calibrations of the ad-hoc parameters. In this sense, a seemingly innocuous application of PAC and DEIR versions may imply spurious results regarding welfare especially if a highly volatile economy is studied. Under commonly used functional forms, the spuriousness of welfare implications is found to be more radical under DEIR than PAC. 
+</div>
+
+**[Currency Substitution, Inflation, and Welfare](http://dx.doi.org/10.1016/j.jdeveco.2012.04.003)**
+
+*Journal of Development Economics*, Vol. 99(2), Pages 358-369, November 2012.
+
+<div class="abstract">
+Currency substitution affects the mapping between social welfare and inflation by altering the underlying money demand function and influencing interest rates. In order to explore the essence of this effect, I build a model with working capital under which foreign currency is substituted with the less liquid components of domestic money. The framework closely mimics the actual pattern of currency substitution across varying rates of inflation and enables the study of an additional channel that works through the impact of currency substitution on interest rates. It is found that there is a threshold inflation rate, which turns out to be 44% under baseline calibration, below which currency substitution decreases welfare and vice versa. A practical implication is that, at inflation rates lower (greater) than the threshold, the potential welfare gains from disinflation to a near-zero inflation rate are higher (lower) if there is currency substitution than otherwise. 
+</div>
+
+**[Financial Market Participation and the Developing Country Business Cycle](http://dx.doi.org/10.1016/j.jdeveco.2009.03.005)**
+
+*Journal of Development Economics*, Vol. 92(2), Pages 125-137, July 2010.
+
+<div class="abstract">
+I explore the implications of limited participation in financial markets on a standard small open economy business cycle model. Despite its parsimony, the limited participation model developed in this paper improves over the standard model in terms of explaining two important features of business cycle facts of developing countries: high volatility of consumption, and high negative correlation between the trade balance and output. Limited participation model is then used to inspect the effects of financial development and integration on macroeconomic volatility. Under a standard calibration, limited participation model leads to the conclusion that financial development and integration are associated with higher investment and output volatility. Effect of more participation on consumption volatility is dependent on the specification of the risk premium function.  
+</div>
+
