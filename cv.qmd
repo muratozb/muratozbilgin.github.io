@@ -2,4 +2,4 @@
 title: "CV"
 ---
 
-You can download my current CV by clicking [here](files/CV_MuratOzbilgin.pdf).
+You can download my current CV by clicking [here](files/Short_CV_MuratOzbilgin.pdf).
