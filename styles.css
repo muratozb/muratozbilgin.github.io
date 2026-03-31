@@ -45,14 +45,17 @@
   .hero-image {
     order: -1;
     text-align: center;
-    margin-top: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
   }
 
   .hero-image img {
-    width: 220px;
-    max-width: 80%;
+    width: 260px;
+    max-width: 85%;
     height: auto;
     margin-top: 0;
+    margin: 0 auto;
+    display: block;
   }
 
   .name {
