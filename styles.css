@@ -29,3 +29,36 @@
   font-size: 1.2rem;
   margin-bottom: 20px;
 }
+
+@media (max-width: 768px) {
+  .hero {
+    display: block;
+    margin-top: 0;
+  }
+
+  .hero-text {
+    width: 100%;
+  }
+
+  .hero-image {
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  .hero-image img {
+    width: 220px;
+    max-width: 80%;
+    height: auto;
+    margin-top: 0;
+  }
+
+  .name {
+    text-align: center;
+    font-size: 2.8rem;
+    margin-bottom: 15px;
+  }
+
+  .subtitle {
+    text-align: center;
+  }
+}
