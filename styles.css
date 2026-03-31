@@ -60,8 +60,8 @@
   }
 
   .hero-image img {
-    width: 270px;
-    max-width: 88vw;
+    width: 260px;
+    max-width: 85vw;
     height: auto;
     display: block;
     margin: 0 auto;
@@ -77,12 +77,12 @@
   }
 
   .name {
-    text-align: left;
+    text-align: center;
     margin: 0 0 6px 0;
   }
 
   .subtitle {
-    text-align: left;
+    text-align: center;
     margin: 0 0 8px 0;
   }
 }
