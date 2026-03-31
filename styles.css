@@ -31,6 +31,12 @@
 }
 
 @media (max-width: 768px) { 
+  .main.content,
+  .content,
+  .quarto-container{
+    padding-top: 0 !important;
+    margin-top: 0 !important;
+  }
 
   .hero {
     display: flex;
