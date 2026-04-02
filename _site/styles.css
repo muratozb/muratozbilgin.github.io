@@ -30,6 +30,15 @@
   margin-bottom: 20px;
 }
 
+.highlight-box{
+    background-color: #edf3f7;
+    /* border: 4px solid #2c3e50; */
+    padding: 6px 8px;
+    border-radius: 6px;
+    margin-top: 6px;
+  }
+
+
 @media (max-width: 768px) { 
   .main.content,
   .content,
@@ -100,4 +109,8 @@
     margin-bottom: 6px;
     margin-top: 8px;
   }
+
+  .highlight-box{
+    padding: 12px 15px;
+    }
 }

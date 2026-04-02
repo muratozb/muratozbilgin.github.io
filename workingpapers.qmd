@@ -1,5 +1,32 @@
 ## Working papers
 
+**[An Overlapping Generations Model to Investigate the Fiscal Implications of New Zealand's Ageing Population](https://www.treasury.govt.nz/publications/wp/wp-26-01)**  
+with Andrew Binning and Christie Smith
+
+*New Zealand Treasury Working Paper*, WP 26/01, March 2026. 
+
+<div class="abstract">
+New Zealand’s population is ageing. Public spending on public pensions (NZ Superannuation) and health are particularly sensitive to this trend and are expected to increase accordingly. Current and future government policies aimed at addressing this challenge will not only influence macroeconomic outcomes and growth, but also generate distributional effects both within and across generations. This paper constructs an overlapping generations (OLG) model for New Zealand to analyse these issues. We show that the model replicates both macroeconomic and fiscal moments for the New Zealand economy. We then approximate Stats NZ’s median demographic projections to trace the rising trajectory of government expenditures driven by population ageing. The model suggests that significant policy adjustments will be required regardless of the rate of technological progress, and that more favourable demographic scenarios offer only partial and temporary relief. This paper forms part of a series of papers using Treasury’s OLG model to investigate the fiscal impacts of New Zealand’s ageing population. Other papers in the series look at the implications of tax and debt financing demographics-driven increases in health and pension spending, and the savings from pension reforms and spending restraint, amongst other issues.
+</div>
+
+**[Raising taxes to fund health and pensions in an ageing New Zealand - Alternative tax bases](https://www.treasury.govt.nz/publications/an/an-26-03)**  
+with Andrew Binning, Christie Smith and Hanna Vu
+
+*New Zealand Treasury Analytical Note*, AN 26/03, March 2026. 
+
+<div class="abstract">
+This paper examines how alternative tax bases can be used to address New Zealand’s long‑term fiscal pressures arising from population ageing, which is projected to increase public pension and health expenditure relative to GDP. Using the Treasury’s overlapping generations (OLG) model, it explores the macroeconomic, fiscal, and distributional effects of three stylised fiscal strategies: funding expenditure pressures through labour income taxes, consumption taxes (GST), or a combination of labour, consumption, and capital income taxes. The scenarios assume current spending projections and adjust taxes over time to stabilise the debt‑to‑GDP ratio. The results highlight how different tax bases affect labour supply, saving, investment, and economic activity, leading to distinct long‑run macroeconomic outcomes and intergenerational impacts. The analysis provides technical insight into how tax structure choices interact with demographic change, supporting the Treasury’s 2025 Long‑term Fiscal Statement.
+</div>
+
+**[Raising taxes to fund health and pensions in an ageing New Zealand - Alternative labour tax progressivity](https://www.treasury.govt.nz/publications/an/an-26-04)**  
+with Andrew Binning, Christie Smith and Hanna Vu
+
+*New Zealand Treasury Analytical Note*, AN 26/04, March 2026. 
+
+<div class="abstract">
+This paper analyses how New Zealand can achieve long‑term fiscal sustainability in the face of population ageing, which is projected to raise public pension and health expenditure substantially. Using the Treasury’s overlapping generations (OLG) model, it examines the macroeconomic, fiscal, and distributional effects of alternative labour income tax strategies that fund these pressures while stabilising public debt. Four stylised tax adjustment paths with differing degrees of progressivity are compared. The results show that funding ageing‑related costs requires tax increases to be spread broadly across the labour tax base, as higher‑income brackets alone are insufficient. More progressive tax increases are more distortionary in the model, reducing labour supply, capital accumulation, and economic activity, while less progressive strategies deliver stronger long‑run outcomes. The analysis also highlights differing impacts across households and generations, providing technical insight to support the 2025 Long‑term Fiscal Statement.
+</div>
+
 **[New Zealand Demographics and Their Role in an Overlapping Generations Model](https://www.treasury.govt.nz/publications/an/an-24-08)**  
 with Andrew Binning, Susie McKenzie and Christie Smith
 
@@ -12,7 +39,7 @@ Like many developed countries, New Zealand’s population is ageing. Its populat
 **[Solving Stochastic OLG Models Using Chebyshev Parameterized Expectations](https://www.treasury.govt.nz/publications/wp/wp-24-03)**  
 with Robert Kirkby 
 
-*New Zealand Treasury Working Paper*, 24/03, June 2024. 
+*New Zealand Treasury Working Paper*, WP 24/03, June 2024. 
 
 <div class="abstract">
 This paper presents an efficient solution method for solving stochastic overlapping generations (S-OLG) models. We use the Chebyshev parameterized expectation algorithm (C-PEA) developed by Christiano and Fisher (2000) to solve the life cycle block of S-OLGs. The method is well suited for this family of models, capable of handling nonlinearities inherent in the life-cycle aspect of S-OLGSs, and occasionally binding constraints associated with borrowing constraints. We carefully examine practical considerations and describe how to efficiently implement this method. To illustrate the method’s effectiveness, we apply it to solve a standard S-OLG model with idiosyncratic risk and two permanent types. We calculate Euler equation errors throughout the life cycle and measure computational time to demonstrate that C-PEA can perform well under these computational challenges with reasonable accuracy and efficiency. Our results show that, together with its scalability to higher dimensional problems, C-PEA can be a valuable tool for policy analysts and researchers working with S-OLG models. 

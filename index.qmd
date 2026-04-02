@@ -29,6 +29,13 @@ I hold a **PhD** from **University of California, Santa Barbara**.
 - Labour market and wage dynamics  
 - Short-term and long-term forecasting
 
+## New publications {.highlight-box}
+- [New Zealand Treasury Media Statement (30 March 2026)](https://www.treasury.govt.nz/publications/media-statement/four-long-term-fiscal-statement-background-papers-published): Four Long-term Fiscal Statement background papers published
+- An Overlapping Generations Model to Investigate the Fiscal Implications of New Zealand's Ageing Population (March 2026, New Zealand Treasury WP 26/01) [Full detail](workingpapers.html)
+- Raising Taxes to Fund Health and Pensions in an Ageing New Zealand - Alternative Tax Bases (March 2026, New Zealand Treasury AN 26/03) [Full detail](workingpapers.html)
+- Raising Taxes to Fund Health and Pensions in an Ageing New Zealand - Alternative Labour Tax Progressivity (March 2026, New Zealand Treasury AN 26/04) [Full detail](workingpapers.html)
+
+
 ## Links
 
 - [CV](files/Short_CV_MuratOzbilgin.pdf)
